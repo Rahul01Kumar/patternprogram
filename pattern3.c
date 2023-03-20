@@ -1,3 +1,26 @@
+
+
+/* pattern printing right angled triangle
+
+*
+**
+***
+****
+*****
+******
+*/
+
+
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 void main()
 {
